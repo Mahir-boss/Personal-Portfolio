@@ -3,7 +3,7 @@
 A responsive personal portfolio website developed as **Task 1** of the Frontend Engineering course assignment. This project highlights my profile as a Software Engineering student, technical skills, and completed and ongoing projects[cite: 1].
 
 ## 🚀 Live Demo
-* GitHub Repository: 
+* GitHub Repository: https://github.com/Mahir-boss
 
 ## 🛠️ Technologies Used
 * **HTML5**: Semantic markup structure.
